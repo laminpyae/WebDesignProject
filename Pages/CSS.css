@@ -1,0 +1,73 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+background-image:url(../Images/Background.jpg);
+margin:0 auto;	
+background-attachment:fixed;
+background-repeat:no-repeat;
+background-position:center;
+}
+.button
+{
+background-color:rgba(0,0,0,0.5);
+text-align:center;
+width:195px;
+height:40px;
+font-size:22px;	
+
+
+}
+.button a
+{
+color:#FFF;	
+font-weight:bold;
+width:195px;
+height:40px;
+text-decoration:none;
+display:block;
+transition:1.5s;
+padding-top:15px;
+
+}
+.button a:hover
+{
+background-color:#FFF;	
+color:#006;
+}
+#footer
+{
+color:#FFF;
+font-size:22px;
+font-family:"Comic Sans MS", cursive;	
+text-align:center;
+}
+.title
+{
+color:#FFF;
+text-align:center;
+}
+.table
+{
+background:rgba(0,0,0,0.4);
+}
+.text
+{
+color:#FFF;
+font-size:18px;
+font-weight:bold;
+text-align:justify;
+}
+.text p
+{
+text-indent:50px;	
+}
+.img
+{
+border:#FFF 2px solid;
+}
+a
+{
+color:#FF0;	
+}
